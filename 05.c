@@ -7,7 +7,7 @@ void main()
         if (5 == list[i])
         {
             temp = 1;
-            printf("5 is found at location %d\n", i + 1);
+            printf("5 is found at location  %d\n", i + 1);
             printf("minimum number of comparisions to be made to get 5 is %d", i + 1);
         }
     }
